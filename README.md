@@ -1,4 +1,4 @@
-# Self Assessment: Array Methods
+# Practice: Array Methods
 
 This exercise is meant to help you indentify any potential weak spots in your knowledge on array methods. Use your knowledge of `find` `filter` and `map` to implement functions according to the specifications and make the tests pass.
 
