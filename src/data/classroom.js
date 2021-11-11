@@ -85,4 +85,5 @@ const instructors = [
 ];
 
 export const useStudents = () => [...students];
+
 export const useInstructors = () => [...instructors];
